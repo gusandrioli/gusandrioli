@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gusandrioli&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gusandrioli)](https://github.com/anuraghazra/github-readme-stats)
